@@ -1,2 +1,2 @@
 # apnaColllegeDemo
-name: Abuzar Saeed Rana
+name: Abuzar Saeed Rana(apna college)
